@@ -1,0 +1,11 @@
+In order to play the game, you will have to open the folder above labeled "Rising", then open
+the folder called "web". From there, you can double-click the HTML document labeled "index" to
+start playing. You may have to enable javascript in order for the game to load.
+
+
+Note: The game does not work on Chrome browsers, and typically works best on Firefox. If 
+your default internet browser is Chrome or is otherwise not compatible, just right-click the
+"index" document and select "open with" and choose a compatible browser. 
+
+Thank you for your time and please enjoy!
+
